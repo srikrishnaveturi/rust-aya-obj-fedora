@@ -1,0 +1,5 @@
+mock-results/
+review/
+*.log
+*.rpm
+*.src.rpm
